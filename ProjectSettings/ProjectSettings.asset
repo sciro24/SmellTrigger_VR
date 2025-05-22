@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: Diego
-  productName: Olfattometro
+  productName: SmellTrigger-VR
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -140,13 +140,14 @@ PlayerSettings:
   loadStoreDebugModeEnabled: 0
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
-  bundleVersion: 0.1.0
+  bundleVersion: 1.0
   preloadedAssets:
-  - {fileID: 11400000, guid: 3ee9a89b21add0a488a54b96c1d04fff, type: 2}
-  - {fileID: 11400000, guid: 7a868c87ff98e824a9b080d796d66a6f, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   - {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
-  - {fileID: -3501807357947084749, guid: 11aab39692e8ff5498bd40e89e553cdb, type: 2}
-  - {fileID: 5840316658441808791, guid: bd0f60ab697a31946a66f7f93211491a, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 1eeb1daa8ab64304db7cd77dba4b063a, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -168,7 +169,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.4
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: com.Diego.Olfattometro
+    Android: com.Diego.SmellTriggerVR
     Standalone: com.Unity-Technologies.com.unity.template.urp-blank
     iPhone: com.Unity-Technologies.com.unity.template.urp-blank
   buildNumber:
