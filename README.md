@@ -1,5 +1,4 @@
 # 🧠 Progetto VR Immersivo con Diffusione Aromatica  
-**Laboratorio di Multimedialità – Università di Bologna**
 
 ---
 
@@ -40,12 +39,12 @@ Dimostrare come l’integrazione di **stimoli olfattivi** in ambienti virtuali p
 ## 🖼️ Esempi Visivi dell'Ambiente VR
 
 <p align="center">
-  <img src="img/esempio1.jpg" alt="Esempio 1" width="45%" style="margin: 5px;"/>
-  <img src="img/esempio2.jpg" alt="Esempio 2" width="45%" style="margin: 5px;"/>
+  <img src="screenshot/1.png" alt="Esempio 1" width="45%" style="margin: 5px;"/>
+  <img src="screenshot/6.png" alt="Esempio 2" width="45%" style="margin: 5px;"/>
 </p>
 <p align="center">
-  <img src="img/esempio3.jpg" alt="Esempio 3" width="45%" style="margin: 5px;"/>
-  <img src="img/esempio4.jpg" alt="Esempio 4" width="45%" style="margin: 5px;"/>
+  <img src="screenshot/3.png" alt="Esempio 3" width="45%" style="margin: 5px;"/>
+  <img src="screenshot/4.png" alt="Esempio 4" width="45%" style="margin: 5px;"/>
 </p>
 
 
